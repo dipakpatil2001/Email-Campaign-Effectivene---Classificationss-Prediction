@@ -14,14 +14,6 @@ For small to medium-sized businesses utilizing Gmail-based email marketing, unde
 
 Develop a machine learning model to analyze the Gmail-based email marketing campaign dataset and predict the engagement status of emails, whether they are ignored, read, or acknowledged. Challenges include handling missing data, building an accurate predictive model, extracting meaningful insights, and providing actionable recommendations for optimizing email marketing strategies.
 
-## Project Structure
-
-The repository is organized as follows:
-
-- `data/`: Contains the dataset used for training and testing the model.
-- `notebooks/`: Colab notebooks containing the exploratory data analysis (EDA), feature engineering, and model building processes.
-- `src/`: Python scripts for preprocessing, training, and evaluating the machine learning model.
-
 
 
 
