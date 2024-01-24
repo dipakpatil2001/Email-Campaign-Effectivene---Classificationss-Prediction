@@ -1,4 +1,4 @@
-# Email-Campaign-Effectivene-Prediction
+# Email-Campaign-Effectiveness-Prediction
 ![Custom-dimensions-800x418-px](https://github.com/dipakpatil2001/Email-Campaign-Effectiveness-Prediction-Classification/assets/123900322/551adf8f-f4d7-44d1-a6b5-6ab8ccdd770c)
 
 ## Project Overview
